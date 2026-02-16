@@ -1,1 +1,3 @@
 # cc2025-online
+
+Some text for exercise 3 - have no glue what I need to do...
